@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.App{
+    background-color: #fddea7;
+}
+
+@media screen and (max-screen:900px) {
+    .footer-2{
+        display: block;
+    }
+}

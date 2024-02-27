@@ -1,0 +1,35 @@
+.hero{
+    margin-left: 3vw;
+    margin-right: 3vw;
+    display: flex;
+    gap: 50px;
+}
+.hero-title{
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.hero-para{
+    margin-left: 5vw;
+}
+.hero-para ul{
+    font-size: 14px;
+    font-weight: 400;
+    width: 820px;
+}
+.award img{
+   box-shadow: 5px 10px #bbbbbb;
+    max-width: 80%;
+    margin-top: 30px;
+}
+.award-line{
+    margin-top: 20px;
+    width: 820px;
+}
+
+@media screen and (max-width:1200px) {
+    .hero{
+        margin-left: 5vw;
+        display: block;
+    }
+}

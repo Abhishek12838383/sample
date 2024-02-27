@@ -1,0 +1,17 @@
+.nav{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-left: 30vw;
+}
+.img img{
+    height: 150px;
+}
+.h-1{
+    font-size: 32px;
+    font-weight: 900;
+}
+.h-2{
+    font-size: 18px;
+    font-weight: 400;
+}

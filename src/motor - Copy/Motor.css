@@ -1,0 +1,22 @@
+.motor-head{
+    margin-top: 20px;
+    font-size: 16px;
+   margin-bottom: 20px;
+    font-weight: 500;
+}
+.motor-img img{
+    width: 80%;
+    margin-left: 10vw;
+}
+
+.motor-down{
+    width: 90%;
+    margin-top: 30px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 23vw;
+}
+.motor hr{
+    margin-top: 20px;
+    color: red;
+}
